@@ -1,7 +1,15 @@
 # ai-projects
 Bu repoda yapay zeka dersi kapsamında geliştirilen 3 adet proje ve bu projelerin ayrıntılı raporları bulunmaktadır.  
 
-## 2- Özellik Seçimi, Özellik Dönüşümü ve Normalizasyon Tekniklerinin Modellerin Başarılarına Etkisi
+
+## Proje-1- Genetik algoritma / Tepe tırmanma ile metin sınıflandırma 
+Bu projede kullanılan verisetleri [bu linkteki](https://www.kaggle.com/datasets/savasy/multiclass-classification-data-for-turkish-tc32) yorumlardan oluşturulmuştur. 
+
+Genetik Algoritma olasılıklar üzerinden yakınsama kriterleri altında arama yapan bir fonksiyondur. Doğada gözlemlenen evrimsel sürece benzer bir şekilde -en iyinin yaşaması gibi- çalışır. Bu projede genetik algoritma, yorumlara doğru sınıf atamasının yapılması için kullanılmıştır.
+
+Bu çalışma, her biri 100 örnekten oluşan 5 adet veri seti üzerinde test edilmiştir. Veri setleri "ulaşım" ve "finans" kategorilerine ait etiketli verilerden oluşmaktadır. Raporda [YapayZekaRapor.pdf](https://github.com/colakzeyn/ai-projects/blob/main/Project-1/YapayZekaRapor.pdf) , "birey boyutu" ve "popülasyon büyüklüğü" parametrelerindeki değişimin test sonuçları üzerindeki etkisi grafikler üzerinden incelenmiştir. Sonuç olarak bu hiperparametrelerinin başarıyı yüksek oranda etkileyen parametreler olduğu kanıtlanmıştır. 
+
+## Proje-2- Özellik Seçimi, Özellik Dönüşümü ve Normalizasyon Tekniklerinin Modellerin Başarılarına Etkisi
 Bu proje kapsamında Trendyol sitesinden 3000 adet yorum çekilip bir veri seti oluşturulmuştur.  
 Veri setine [bu linke](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/veri_3000.csv) tıklayarak ulaşabilirsiniz.  
 
@@ -20,7 +28,7 @@ Kodlara [yapayzeka-odev2-kod.py](https://github.com/elifayanoglu/ai-projects/blo
 Bu projeye dair yukarıda bahsetmiş olduğumuz tüm kaynakları [Project-2](https://github.com/elifayanoglu/ai-projects/tree/main/Project-2) klasöründe bulabilirsiniz.
 
 
-## 3- Kişilik Analizi Projesi 
+## Proje-3- Kişilik Analizi Projesi 
 Bu proje kapsamında insanlara kendileri ve düşünceleri hakkında çeşitli sorular yönelttiğimiz toplamda 13 sorudan oluşan bir [anket](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/Ki%C5%9Filik%20Anketi%20.pdf) hazırlanmıştır.  
   
 Bu anket ile 224 kişiden veri toplanmıştır. Toplanan veri setini [bu linke](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/kisilik_testi.csv) tıklayarak inceleyebilirsiniz.  
