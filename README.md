@@ -20,6 +20,21 @@ Kodlara [yapayzeka-odev2-kod.py](https://github.com/elifayanoglu/ai-projects/blo
 Bu projeye dair yukarıda bahsetmiş olduğumuz tüm kaynakları [Project-2](https://github.com/elifayanoglu/ai-projects/tree/main/Project-2) klasöründe bulabilirsiniz.
 
 
+## 3- Kişilik Analizi Projesi 
+Bu proje kapsamında insanlara kendileri ve düşünceleri hakkında çeşitli sorular yönelttiğimiz toplamda 13 sorudan oluşan bir [anket](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/Ki%C5%9Filik%20Anketi%20.pdf) hazırlanmıştır.  
+  
+Bu anket ile 224 kişiden veri toplanmıştır. Toplanan veri setini [bu linke](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/kisilik_testi.csv) tıklayarak inceleyebilirsiniz.  
+  
+İlk aşamada veri setine çeşitli görselleştirme teknikleri uygulanarak elde ettiğimiz veriden oran bazında anlamlı sonuçlar çıkarılmıştır. Ayrıca veri setine çeşitli yöntemler uygulanarak işlenmiş ve [islenmis_csv](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/islenmis_csv.csv) ismiyle kaydedilmiştir.   
+İkinci aşamdaki modellerin çalışabilmesi için işlenmiş olan veri seti kullanılmıştır. Bu aşamaya ait kodlar [yapayzeka_part1.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/yapayzeka_part1.py) dosyasında mevcuttur.  
+  
+İkinci aşamada 5 farklı model ile eğitim gerçekleştilimiş ve elde edilen sonuçlar görselleştirilerek çıkarım ve yoruma elverişli hale getirilmiştir.  
+İkinci aşamaya ait kodlar [yapayzeka_part2.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/yapayzeka_part2.py) dosyasında mevcuttur.  
+  
+Yukarıda anlatılan tüm adımların ve görselleştirmelerin ayrıntılı bir şekilde açıklanmış biçimini [YapayZekaProje_Rapor](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/YapayZekaProje_Rapor.pdf) isimli pdf'te bulunan makalede inceleyebilirsiniz.  
+Yukarıda bahsi geçen tüm kaynaklara [Project-3](https://github.com/elifayanoglu/ai-projects/tree/main/Project-3) klasöründen ulaşabilirsiniz.  
+  
+
 
 ----
 ### EN:
