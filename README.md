@@ -1,7 +1,7 @@
 # ai-projects
 Bu repoda yapay zeka dersi kapsamında geliştirilen 3 adet proje ve bu projelerin ayrıntılı raporları bulunmaktadır.  
 
-## 2- PROJECT-2
+## 2- Özellik Seçimi, Özellik Dönüşümü ve Normalizasyon Tekniklerinin Modellerin Başarılarına Etkisi
 Bu proje kapsamında Trendyol sitesinden 3000 adet yorum çekilip bir veri seti oluşturulmuştur.  
 Veri setine [bu linke](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/veri_3000.csv) tıklayarak ulaşabilirsiniz.  
 
@@ -17,6 +17,7 @@ En son tahminleyici algortimaların bu işlemlerle birlikte performanslarının 
 Elde ettiğimiz sonuçlara dair detaylı açıklamalar, tablolar ve grafikleri [RAPOR](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/RAPOR.pdf) isimli pdf'te yer alan makalede inceleyebilirsiniz.  
   
 Kodlara [yapayzeka-odev2-kod.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/Kod/yapayzeka-odev2-kod.py) dosyasından ulaşabilirsiniz.  
+Bu projeye dair yukarıda bahsetmiş olduğumuz tüm kaynakları [Project-2](https://github.com/elifayanoglu/ai-projects/tree/main/Project-2) klasöründe bulabilirsiniz.
 
 
 
