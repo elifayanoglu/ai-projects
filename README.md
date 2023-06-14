@@ -47,3 +47,43 @@ Yukarıda bahsi geçen tüm kaynaklara [Project-3](https://github.com/elifayanog
 ----
 ### EN:
 In this repo, there are 3 projects developed within the scope of artificial intelligence course and detailed reports of these projects.
+
+## Project-1- Genetic algorithm / Text classification with hill climbing
+The datasets used in this project [at this link](https://www.kaggle.com/datasets/savasy/multiclass-classification-data-for-turkish-tc32) were created from comments.
+
+Genetic Algorithm is a function that searches for convergence criteria over probabilities. It works in a way similar to the evolutionary process observed in nature—like the survival of the fittest. In this project, the genetic algorithm was used to assign the correct class to the comments.
+
+This study was tested on 5 datasets, each consisting of 100 samples. The datasets consist of labeled data belonging to the "transport" and "finance" categories. In the report [Artificial IntelligenceRapor.pdf](https://github.com/colakzeyn/ai-projects/blob/main/Project-1/ArtificialIntelligenceRapor.pdf), the effect of the change in the "individual size" and "population size" parameters on the test results graphs examined over. As a result, it has been proven that these hyperparameters are the parameters that highly affect the success.
+
+## Project-2- The Effect of Feature Selection, Feature Transformation and Normalization Techniques on Model Success
+Within the scope of this project, 3000 comments were drawn from the Trendyol site and a data set was created.
+You can access the dataset by clicking [this link](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/veri_3000.csv).
+
+5 different predictive algorithms were trained by applying 10 fold cross validation method.
+In order to reveal our main goal of "identifying the factors affecting success", the following processes were integrated into all predictive algorithms, respectively, and the results were observed.
+
+1- Chi Squared Technique (Feature Selection)
+2- Principal Component Analysis (Property Transformation)
+3- Maximum Absolute Scaling Technique (Normalization)
+  
+To test whether there is a significant difference between the performance of the latest predictive algorithms with these processes, a "t-test" was measured.
+  
+You can review the detailed explanations, tables and graphics of our results in the pdf article [REPORT](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/RAPOR.pdf).
+  
+You can access the codes from the [artificialzeka-odev2-kod.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-2/Kod/yaayzeka-odev2-kod.py) file.
+You can find all the resources we mentioned above about this project in the [Project-2](https://github.com/elifayanoglu/ai-projects/tree/main/Project-2) folder.
+
+
+## Project-3- Personality Analysis Project
+Within the scope of this project, a [survey] consisting of 13 questions in total, in which we asked people various questions about themselves and their thoughts (https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/Ki%) C5%9Filik%20Survey%20.pdf) has been prepared.
+  
+With this survey, data were collected from 224 people. You can review the collected data set by clicking [this link](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/kisilik_testi.csv).
+  
+In the first stage, meaningful results were obtained from the data we obtained by applying various visualization techniques to the data set. In addition, the dataset was processed by applying various methods and saved as [processed_csv](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20data/processed_csv.csv).
+The processed data set was used in order for the models in the second stage to work. The codes for this stage are available in the [artificial intelligence_part1.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20data/yayzeka_part1.py) file.
+  
+In the second stage, training was carried out with 5 different models and the results obtained were visualized and made suitable for inference and interpretation.
+The codes for the second stage are available in the file [artificial intelligence_part2.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Codes%20ve%20data/artificial intelligence_part2.py).
+  
+You can review the detailed explanation of all the steps, visualizations and inferences described above in the pdf article [ArtificialZekaProje_Rapor](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/YapayZekaProje_Rapor.pdf). .
+You can access all the resources mentioned above from the [Project-3](https://github.com/elifayanoglu/ai-projects/tree/main/Project-3) folder.
