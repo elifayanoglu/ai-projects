@@ -31,7 +31,7 @@ Bu anket ile 224 kişiden veri toplanmıştır. Toplanan veri setini [bu linke](
 İkinci aşamada 5 farklı model ile eğitim gerçekleştilimiş ve elde edilen sonuçlar görselleştirilerek çıkarım ve yoruma elverişli hale getirilmiştir.  
 İkinci aşamaya ait kodlar [yapayzeka_part2.py](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/Kodlar%20ve%20veriseti/yapayzeka_part2.py) dosyasında mevcuttur.  
   
-Yukarıda anlatılan tüm adımların ve görselleştirmelerin ayrıntılı bir şekilde açıklanmış biçimini [YapayZekaProje_Rapor](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/YapayZekaProje_Rapor.pdf) isimli pdf'te bulunan makalede inceleyebilirsiniz.  
+Yukarıda anlatılan tüm adımların, görselleştirmelerin  ve çıkarımların ayrıntılı bir şekilde açıklanmış biçimini [YapayZekaProje_Rapor](https://github.com/elifayanoglu/ai-projects/blob/main/Project-3/YapayZekaProje_Rapor.pdf) isimli pdf'te bulunan makalede inceleyebilirsiniz.  
 Yukarıda bahsi geçen tüm kaynaklara [Project-3](https://github.com/elifayanoglu/ai-projects/tree/main/Project-3) klasöründen ulaşabilirsiniz.  
   
 
